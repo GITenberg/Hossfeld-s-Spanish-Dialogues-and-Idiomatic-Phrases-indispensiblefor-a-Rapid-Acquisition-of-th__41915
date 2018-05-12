@@ -1,0 +1,30 @@
+_repo: Hossfeld-s-Spanish-Dialogues-and-Idiomatic-Phrases-indispensiblefor-a-Rapid-Acquisition-of-th__41915
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41915-h/images/cover_lg.jpg
+creator:
+  authors:
+  - agent_name: Hossfeld, C.
+    gutenberg_agent_id: '44451'
+    url: http://www.gutenberg.org/2009/agents/44451
+  - agent_name: Cornett, W. N. (William N.)
+    alias: Cornett, William N.
+    gutenberg_agent_id: '41428'
+    url: http://www.gutenberg.org/2009/agents/41428
+description: ''
+gutenberg_issued: '2013-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'Spanish language -- Textbooks for foreign speakers -- English'
+- !lcsh 'Spanish language -- Terms and phrases'
+title: Hossfeld's Spanish Dialogues, and Idiomatic Phrases Indispensible for a Rapid
+  Acquisition of the Spanish Language
+url: http://www.gutenberg.org/ebooks/41915
