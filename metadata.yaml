@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '41428'
     url: http://www.gutenberg.org/2009/agents/41428
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41915#Hossfeld-s-Spanish-Dialogues-and-Idiomatic-Phrases-indispensiblefor-a-Rapid-Acquisition-of-th_
 gutenberg_issued: '2013-01-25'
 gutenberg_type: Text
 identifiers:
